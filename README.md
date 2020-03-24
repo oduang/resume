@@ -1,8 +1,9 @@
-# 张大侠简历模板修改版
+# 拾迹/张大侠简历模板修改版
 
  - 修复了个人logo不显示的bug
  - 默认左边个人信息部分不随右边移动
  - 在线预览(logo图有可能加载慢): [https://oduang.github.io/resume/](https://oduang.github.io/resume/)
+ - 原项目地址[https://gitee.com/itsay/resume](https://gitee.com/itsay/resume)
 
 # 以下为原作者介绍文件
 ---
