@@ -1,6 +1,11 @@
-[![star](https://gitee.com/itsay/resume/badge/star.svg?theme=white)](https://gitee.com/itsay/resume/stargazers)    [![fork](https://gitee.com/itsay/resume/badge/fork.svg?theme=white)](https://gitee.com/itsay/resume/members)
+#张大侠简历模板修改版
+1.修复了个人logo不显示的bug
+2.默认左边个人信息部分不随右边移动
 
-# 个人简历模板
+#以下为原作者介绍文件
+---
+
+## 个人简历模板
 
 [http://itsay.gitee.io/resume](http://itsay.gitee.io/resume)
 
